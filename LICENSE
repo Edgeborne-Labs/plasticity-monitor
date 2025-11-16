@@ -1,4 +1,17 @@
-                                 Apache License
+NOTE ON PATENT RIGHTS
+
+This repository contains an implementation of techniques that are the subject of a pending patent application
+held by Edgeborne Labs LLC (inventor: Jeanpaul Powell). The Apache 2.0 License included below governs the
+copyright and code usage. The patent license granted under Apache 2.0 does not necessarily extend to all
+commercial uses of the underlying mechanism.
+
+Commercial users are advised that they may need a separate patent license from Edgeborne Labs LLC to practice
+the Plasticity Half-Life mechanism and associated Safety Monitor in production.
+
+Contact: info@edgebornelabs.com
+
+
+                                Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
