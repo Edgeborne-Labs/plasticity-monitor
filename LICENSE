@@ -1,12 +1,15 @@
-NOTE ON PATENT RIGHTS
+NOTE ON PATENT RIGHTS:  
+This open-source implementation is licensed under the Apache 2.0 license.  
+However, the Plasticity Half-Life mechanism, Safety Monitor, Consistency 
+Deviation Method, and associated techniques described herein are covered 
+by a pending U.S. patent application owned by Edgeborne Labs LLC.  
 
-This repository contains an implementation of techniques that are the subject of a pending patent application
-held by Edgeborne Labs LLC (inventor: Jeanpaul Powell). The Apache 2.0 License included below governs the
-copyright and code usage. The patent license granted under Apache 2.0 does not necessarily extend to all
-commercial uses of the underlying mechanism.
+The Apache License grants a patent license *only* for use of this open-source 
+reference implementation.  
 
-Commercial users are advised that they may need a separate patent license from Edgeborne Labs LLC to practice
-the Plasticity Half-Life mechanism and associated Safety Monitor in production.
+Any commercial use of the patented mechanism, or any implementation used  
+outside this repository, requires a separate commercial license from 
+Edgeborne Labs LLC.  
 
 Contact: info@edgebornelabs.com
 
