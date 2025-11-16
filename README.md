@@ -190,7 +190,8 @@ Plasticity Monitor aims to provide a primitive building block for safe adaptatio
 This project is released under the Apache 2.0 License (see LICENSE).
 
 ⚠ Patent Notice
-The Plasticity Half-Life mechanism and Safety Monitor described in this repository are the subject of a pending patent application held by Edgeborne Labs LLC (inventor: Jeanpaul Powell).
+The Plasticity Half-Life mechanism and Safety Monitor described in this repository are the
+subject of a pending patent application held by Edgeborne Labs LLC (inventor: Jeanpaul Powell).
 This open-source implementation is provided primarily for research and evaluation.
 Commercial use of this mechanism may require a separate patent license from Edgeborne Labs.
 For licensing inquiries, please contact: info@edgebornelabs.com.
